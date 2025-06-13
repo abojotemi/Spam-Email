@@ -203,7 +203,7 @@ body {
 
   }
   .signup-text{
-    color: #E07E1B;
+    color: #1E88E5;
     font-size: 14px;
   }
     /* styling for the prediction page ends here */
@@ -391,7 +391,7 @@ ul {
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
-  border-top: 6px solid #E07E1B;
+  border-top: 6px solid #1E88E5;
   border-left: 6px solid rgba(116, 14, 175, 0);
   border-right: 6px solid rgba(116, 14, 175, 0);
   border-bottom: 6px solid rgba(116, 14, 175, 0);
@@ -409,7 +409,7 @@ ul {
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
-  border-top: 6px solid #E07E1B;
+  border-top: 6px solid #1E88E5;
   border-left: 6px solid rgba(151, 38, 216, 0);
   border-right: 6px solid rgba(151, 38, 216, 0);
   border-bottom: 6px solid rgba(151, 38, 216, 0);
@@ -427,7 +427,7 @@ ul {
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
-  border-top: 6px solid #E07E1B;
+  border-top: 6px solid #1E88E5;
   border-left: 6px solid rgba(190, 112, 235, 0);
   border-right: 6px solid rgba(190, 112, 235, 0);
   border-bottom: 6px solid rgba(190, 112, 235, 0);
@@ -15003,7 +15003,7 @@ ul {
 35. Demo Layout Thirty Two
 =========================================================================*/
 .fxt-template-layout32 {
-  background-color: #E07E1B;
+  background-color: #1E88E5;
   min-height: 100vh;
   width: 100%;
   display: -webkit-box;
@@ -15351,7 +15351,7 @@ ul {
   border-color: #a93cd8;
   color: #fff;
   border-radius: 3px;
-  background-color: #E07E1B;
+  background-color: #1E88E5;
   padding: 12px 30px;
   width: 100%;
   -webkit-transition: all 0.3s ease-in-out;
@@ -15359,8 +15359,8 @@ ul {
   transition: all 0.3s ease-in-out;
 }
 .layout32.modal-content .fxt-btn-fill:hover {
-  background-color: #E07E1B;
-  border-color: #E07E1B;
+  background-color: #1E88E5;
+  border-color: #1E88E5;
 }
 .layout32.modal-content .fxt-btn-fill:focus {
   outline: none;
@@ -15465,7 +15465,7 @@ ul {
   cursor: pointer;
   padding: 0;
   font-size: 12px;
-  color: #E07E1B;
+  color: #1E88E5;
   margin-bottom: 5px;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -15473,7 +15473,7 @@ ul {
   transition: all 0.3s ease-in-out;
 }
 .layout32.modal-content .fxt-switcher-text2:hover {
-  color: #E07E1B;
+  color: #1E88E5;
   text-decoration: underline;
 }
 .layout32.modal-content .fxt-switcher-text3 {
